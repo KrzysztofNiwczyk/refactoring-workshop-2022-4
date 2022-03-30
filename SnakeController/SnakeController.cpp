@@ -5,6 +5,7 @@
 
 #include "EventT.hpp"
 #include "IPort.hpp"
+#include"SnakeSegments.hpp"
 
 namespace Snake
 {
